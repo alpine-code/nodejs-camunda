@@ -1,4 +1,0 @@
-[submodule "src/vendor/camunda-bpm-webapp"]
-	path = src/vendor/camunda-bpm-webapp
-	url = https://github.com/camunda/camunda-bpm-webapp
-	branch = master
