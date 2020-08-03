@@ -1,12 +1,15 @@
 {
-  "name": "alpine-code-sdk-js",
+  "name": "@alpine-code/alpine-code-sdk-js",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "ilzenzo",
   "license": "ISC",
   "repository": {
     "type": "git",
