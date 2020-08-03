@@ -3,11 +3,11 @@ type: kubernetes
 name: default
 
 steps:
-  - name: test
-    image: node:12
-    commands:
-      - npm install
-      - npm test
+  # - name: test
+  #   image: node:12
+  #   commands:
+  #     - npm install
+  #     - npm test
   - name: push commit
     image: appleboy/drone-git-push:0.2.0-linux-amd64
     settings:
