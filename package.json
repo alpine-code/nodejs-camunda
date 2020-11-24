@@ -1,5 +1,5 @@
 {
-  "name": "@alpine-code/alpine-code-sdk-js",
+  "name": "@alpine-code/nodejs-camunda",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alpine-code/alpine-code-sdk-js.git"
+    "url": "git+https://github.com/alpine-code/nodejs-camunda.git"
   },
   "devDependencies": {
     "chai": "^4.2.0",
